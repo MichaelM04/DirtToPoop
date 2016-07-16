@@ -1,0 +1,6 @@
+name: DirtToPoop
+main: DTP\DTP
+author: MichaelM04
+api: [1.0.0, 2.0.0]
+version: 1.0
+description: Turn that boring dirt into Poop!
